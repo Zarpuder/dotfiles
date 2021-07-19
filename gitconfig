@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dupraz.adriano@gmail.com
+	name = Adriano Dupraz
